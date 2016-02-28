@@ -1,0 +1,29 @@
+_repo: Cumner-s-Son-and-Other-South-Sea-Folk-Volume-02_6196
+creator:
+  author:
+    agent_name: Parker, Gilbert
+    aliases:
+    - Parker, Gilbert, Sir, bart.
+    - Parker, Horatio Gilbert
+    birthdate: 1862
+    deathdate: 1932
+    gutenberg_agent_id: '1285'
+    url: http://www.gutenberg.org/2009/agents/1285
+    wikipedia: http://en.wikipedia.org/wiki/Gilbert_Parker
+description: ''
+gutenberg_issued: '2004-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6196'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Oceania -- Fiction'
+- !lcc 'PS'
+tableOfContents: The high court of Budgery-Gar -- An epic in yellow -- Dibbs, R.N.
+  -- A little masquerade -- Derelict -- Old roses -- My wife's lovers -- The stranger's
+  hut.
+title: Cumner's Son and Other South Sea Folk — Volume 02
+url: http://www.gutenberg.org/ebooks/6196
